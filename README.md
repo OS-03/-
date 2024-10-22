@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owais</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=os-03&label=Profile%20views&color=0e75b6&style=flat" alt="os-03" /> </p>
-
 - 📫 How to reach me **ferozshaikh2222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
